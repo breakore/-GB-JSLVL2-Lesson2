@@ -1,1 +1,1 @@
-# -GB-JSLVL2-Lesson2
+# GB-JSLVL2-Lesson2
